@@ -1,6 +1,6 @@
-# command-line-todo-list
-A colourful command-line to-do list app built with Python
 # Command Line To-Do List App
+A colourful command-line to-do list app built with Python
+
 
 A simple, colorful command-line to-do list application built with Python. This project demonstrates fundamental programming concepts including file handling, error handling, and user input validation.
 
