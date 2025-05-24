@@ -15,7 +15,7 @@ A simple, colorful command-line to-do list application built with Python. This p
 
 ## Screenshots
 
-[Screenshot](https://github.com/sannibabalola/command-line-todo-list/blob/89d8edcbc4255f817260a1a2e719fd09ba45ddef/asset/Screenshot%201.PNG)
+![Screenshot](https://github.com/sannibabalola/command-line-todo-list/blob/89d8edcbc4255f817260a1a2e719fd09ba45ddef/asset/Screenshot%201.PNG)
 
 ## Installation
 
