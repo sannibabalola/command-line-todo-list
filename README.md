@@ -31,7 +31,7 @@ A simple, colorful command-line to-do list application built with Python. This p
 
 3. **Run the application**
    ```bash
-   python todo_list.py
+   python TO DO LIST APP.py
    ```
 
 ## Requirements
@@ -41,7 +41,7 @@ A simple, colorful command-line to-do list application built with Python. This p
 
 ## How to Use
 
-1. Run the program using `python todo_list.py`
+1. Run the program using `python TO DO LIST APP.py`
 2. Choose from the menu options (1-5)
 3. Follow the prompts to manage your tasks
 4. Your tasks are automatically saved to `my_task.txt`
@@ -65,7 +65,7 @@ This project showcases the following Python programming concepts:
 ```
 command-line-todo-list/
 │
-├── todo_list.py          # Main application file
+├── TO DO LIST APP.py          # Main application file
 ├── my_task.txt           # Task storage file (created automatically)
 ├── requirements.txt      # Project dependencies
 └── README.md            # Project documentation
