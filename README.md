@@ -20,7 +20,7 @@ A simple, colorful command-line to-do list application built with Python. This p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/command-line-todo-list.git
+   git clone https://github.com/sannibabalola/command-line-todo-list.git
    cd command-line-todo-list
    ```
 
